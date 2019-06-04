@@ -1,5 +1,5 @@
 ## Neraul Style Transfer
-Nearual Style Transfer abstracts and recognizes the style of a picture and applies it to another picture.
+Neural Style Transfer abstracts and recognizes the style of a picture and applies it to another picture.
 
 **Dali + Sunrise**
 
